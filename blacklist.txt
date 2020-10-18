@@ -1,3 +1,4 @@
+
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.1001yx.com/*
@@ -273,6 +274,8 @@
 *://sabp.natural-born-schrubber.de/*
 *://sgub.kerstinraphahn.de/*
 *://sswhsign.com/*
+*://stackoom.com/*
+*://stackoverrun.com/*
 *://taojinpu.cn/*
 *://tfud.ffw-ellzee.de/*
 *://twww.wahmbeckerheide.de/*
@@ -303,6 +306,7 @@
 *://www.carrotchou.blog/*
 *://www.chromeba.net/*
 *://www.codenong.com/*
+*://www.coder.work/*
 *://www.cqchildren.com/*
 *://www.csdn.net/*
 *://www.drjordanmall.com/*
@@ -336,6 +340,7 @@
 *://www.shsgy.com/*
 *://www.ssf.cc/*
 *://www.taobao.com/*
+*://www.thinbug.com/*
 *://www.trust1688.com/*
 *://www.vickarsgroup.com/*
 *://www.voidcn.com/*

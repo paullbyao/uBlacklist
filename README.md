@@ -1,3 +1,3 @@
 ### uBlacklist 
-- Subscription : `https://raw.githubusercontent.com/lbdev/uBlacklist/master/blacklist.txt`
+- Subscription : `https://raw.githubusercontent.com/lbydev/uBlacklist/master/blacklist.txt`
 
