@@ -993,6 +993,7 @@
 *://bvwc.lumea-verlag.de/*
 *://ceji.ayotechnology.de/*
 *://christadavidson.com/*
+*://cloud.tencent.com/*
 *://cn.filedict.com/*
 *://cyfq.women-selfdefense-regensburg.de/*
 *://czba.quazzle.de/*
@@ -1166,6 +1167,7 @@
 *://www.chromeba.net/*
 *://www.codenong.com/*
 *://www.coder.work/*
+*://www.coder55.com/*
 *://www.colabug.com/*
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
@@ -1197,6 +1199,7 @@
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
+*://www.huaweicloud.com/*
 *://www.hyhome.com.cn/*
 *://www.ispsd2015.com/*
 *://www.itjie.com/*
@@ -1217,6 +1220,7 @@
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
 *://www.manew.com/*
+*://www.mdeditor.tw/*
 *://www.mei521.com/*
 *://www.moulin-larroque.com/*
 *://www.mzgsmc.com/*
@@ -1224,6 +1228,7 @@
 *://www.newasp.net/*
 *://www.nj118114.cn/*
 *://www.ok168198.com/*
+*://www.old-wan.com/*
 *://www.oneho.cn/*
 *://www.operatoriforex.com/*
 *://www.pai-hang-bang.com/*
